@@ -213,5 +213,5 @@ var slideShow = (function () {
 }());
 
 slideShow('.slider', {
-    isAutoplay: true
+    isAutoplay: true // точтостоаоуау
 });
